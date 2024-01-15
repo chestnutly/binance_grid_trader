@@ -1,4 +1,4 @@
-#  51bitquant网格交易策略
+#  网格交易策略
 
 ## 使用 how to use
 1. 修改配置文件, config your config file.
